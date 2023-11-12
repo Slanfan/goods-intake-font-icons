@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'elkjop-cont-icons';
+  src: url('') format('woff');
+}
+.icon-pallet:before {
+  content: "\e900";
+}
