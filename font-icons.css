@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'elkjop-cont-icons';
-  src: url('https://github.com/Slanfan/goods-intake-font-icons/blob/main/elkjop-font-icons.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/Slanfan/goods-intake-font-icons/main/elkjop-font-icons.woff') format('woff');
 }
 .icon-pallet:before {
   content: "\e900";
